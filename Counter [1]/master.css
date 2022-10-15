@@ -1,0 +1,19 @@
+body{
+  font-family:  'Helvetica Neue', sans-serif;
+}
+.bas {
+
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 5px;
+}
+#inc{
+  background: darkred
+
+}
+#sav{
+  background: darkgreen
+}
