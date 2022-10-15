@@ -1,0 +1,30 @@
+body{
+  background-image: url(img.jpg);
+  background-size: cover;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+  font-size: 60px;
+  color: goldenrod;
+}
+h2{
+  font-size: 30px;
+  color: white;
+}
+h3{
+  color: white;
+  font-size: 30px;
+}
+button{
+  background-color: goldenrod;
+  color: darkgreen;
+  border: 0px;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 10px;
+}
+.all{
+  margin-top: 50px;
+  text-align: center;
+
+}
